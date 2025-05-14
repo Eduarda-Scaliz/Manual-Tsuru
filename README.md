@@ -1,4 +1,4 @@
-# Manual de Dobragem de Tsuru (34 Passos)
+# Manual de Dobragem de Tsuru (29 Passos)
 
 Este manual detalha passo a passo como dobrar um tsuru de papel, desde o corte inicial até os ajustes finais.
 
