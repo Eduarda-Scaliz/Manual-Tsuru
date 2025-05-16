@@ -16,24 +16,24 @@ Este manual detalha passo a passo como dobrar um tsuru de papel, desde o corte i
 5.  **Dobre a outra diagonal, unindo os outros dois cantos opostos.** Faça um vinco firme e desdobre. Você terá agora duas linhas diagonais cruzando o centro do papel.
 6.  **Vire o papel para que o lado colorido (ou pintado) fique virado para baixo.**
 7.  **Dobre o papel ao meio horizontalmente, unindo as bordas superior e inferior.** Faça um vinco firme e desdobre.
-8.  **Dobre o papel ao meio verticalmente, unindo as bordas esquerda e direita.** Faça um vinco firme e desdobre. Agora você terá duas cruzes de vincos no centro.**
+8.  **Dobre o papel ao meio verticalmente, unindo as bordas esquerda e direita.** Faça um vinco firme e desdobre. Agora você terá duas cruzes de vincos no centro.
     ![Imagem da dobra vertical](imgs/3.jpg)
-9.  **Com os vincos feitos, traga os quatro cantos do papel em direção ao centro.** Utilize os vincos diagonais como guia para formar um quadrado menor. As bordas laterais se encontrarão no centro.**
+9.  **Com os vincos feitos, traga os quatro cantos do papel em direção ao centro.** Utilize os vincos diagonais como guia para formar um quadrado menor. As bordas laterais se encontrarão no centro.
     ![Imagem dobrando os cantos para o centro](imgs/4.jpg)
     ![Imagem dobrando os cantos para o centro](imgs/5.jpg)
-10. **Achate o quadrado formado.** Você terá agora uma figura com quatro abas soltas na parte inferior. Esta é a base diamante.**
+10. **Achate o quadrado formado.** Você terá agora uma figura com quatro abas soltas na parte inferior. Esta é a base diamante.
     ![Imagem da base diamante](imgs/6.jpg)
 
 ## Modelagem do Tsuru
 
 11. **Segure a aba inferior (a que tem várias pontas) para baixo.**
-12. **Dobre a borda lateral direita dessa aba em direção à linha central.** Faça um vinco firme.**
+12. **Dobre a borda lateral direita dessa aba em direção à linha central.** Faça um vinco firme.
     ![Imagem dobrando a borda direita](imgs/7.jpg)
-13. **Dobre a borda lateral esquerda dessa mesma aba em direção à linha central.** Faça um vinco firme. Você terá agora uma forma de "pipa".**
+13. **Dobre a borda lateral esquerda dessa mesma aba em direção à linha central.** Faça um vinco firme. Você terá agora uma forma de "pipa".
     ![Imagem da forma de pipa (frente)](imgs/8.jpg)
-14. **Abra a aba superior da frente (a primeira "pipa" que você fez) na parte inferior.** Você verá uma dobra central.**
+14. **Abra a aba superior da frente (a primeira "pipa" que você fez) na parte inferior.** Você verá uma dobra central.
     ![Imagem abrindo a aba inferior](imgs/9.jpg)
-15. **Dobre a ponta inferior dessa aba para cima, seguindo o vinco central até encontrar o topo da "pipa".** Faça um vinco firme.**
+15. **Dobre a ponta inferior dessa aba para cima, seguindo o vinco central até encontrar o topo da "pipa".** Faça um vinco firme.
     ![Imagem dobrando a ponta inferior para cima (frente)](imgs/10.jpg)
     ![Imagem dobrando a ponta inferior para cima (frente)](imgs/11.jpg)
     ![Imagem dobrando a ponta inferior para cima (frente)](imgs/12.jpg)
@@ -74,7 +74,7 @@ Este manual detalha passo a passo como dobrar um tsuru de papel, desde o corte i
     ![](imgs/30.jpg)
 25. **Repita o processo na outra perna.**
     ![](imgs/31.jpg)
-26. **Dobre a ponta de uma "perna" para baixo e para fora, formando um pequeno ângulo.** Este será o pescoço e a cabeça do tsuru.**
+26. **Dobre a ponta de uma "perna" para baixo e para fora, formando um pequeno ângulo.** Este será o pescoço e a cabeça do tsuru.
     ![](imgs/32.jpg)
 
 ## Ajustes Finais
